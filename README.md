@@ -3,6 +3,9 @@
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover meaningful business insights, detect patterns, and analyze survival factors.
 The goal is to apply industry-standard EDA techniques using Python and visualize findings effectively.
 
+**Dataset Used**
+Titanic Dataset(from Kaggle): https://www.kaggle.com/datasets/brendan45774/test-file
+
 **Tools & Libraries**
 -Python
 -Pandas → Data manipulation & cleaning
