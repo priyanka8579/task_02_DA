@@ -41,5 +41,4 @@ The goal is to apply industry-standard EDA techniques using Python and visualize
 -Women had a much higher survival rate than men.
 -Higher-class passengers (1st Class) had better chances of survival.
 -Fares were heavily skewed; log transform improved normality.
-
-Most passengers had no siblings/spouse or parents onboard (skewed family features).
+-Most passengers had no siblings/spouse or parents onboard (skewed family features).
